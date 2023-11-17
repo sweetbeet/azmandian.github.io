@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://azmandian.github.io/sitemap.xml
+Sitemap: https://sweetbeet.github.io/sitemap.xml
