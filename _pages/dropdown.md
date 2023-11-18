@@ -3,7 +3,7 @@ layout: page
 title: submenus
 nav: true
 nav_order: 7
-dropdown: true
+dropdown: false #Maryam changed this
 children:
     - title: publications
       permalink: /publications/
