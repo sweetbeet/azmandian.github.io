@@ -26,8 +26,4 @@ I’m interested in robotics (Human-Robot Interaction and swarms), and the curre
 
 [My Github](https://github.com/sweetbeet/)
 
-TODO: How to add more photos here
-
-Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
- This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below.
+[//]: # (TODO: How to add more photos here. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and[Academicons](https://jpswalsh.github.io/academicons/), like the ones below.)
