@@ -20,14 +20,14 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Hi! My name is Maryam and I'm a first year Computer Science PhD student at Northwestern University.
-I’m interested in robotics (Human-Robot Interaction and swarms, and the current project I’m working on is implementing a distributed swarm localization system using AprilTags to replace the current Vive system.
+I’m interested in robotics (Human-Robot Interaction and swarms), and the current project I’m working on is implementing a distributed swarm localization system using AprilTags to replace the current Vive system.
 
-[My LinkedIn](https://www.linkedin.com/in/maryamazmandian/).
+[My LinkedIn](https://www.linkedin.com/in/maryamazmandian/)
 
+[My Github](https://github.com/sweetbeet/)
 
-You can put a picture in, too. <-- How?
+TODO: How to add more photos here
 
-[prof_pic.jpg](prof_pic.jpg)
 Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below.

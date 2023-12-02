@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Maryam's teaching experiences
 nav: true
 nav_order: 5
